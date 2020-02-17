@@ -1,0 +1,5 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodosNumeros\bin\Debug\MetodosNumeros.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodosNumeros\bin\Debug\MetodosNumeros.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodosNumeros\bin\Debug\MetodosNumeros.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodosNumeros\obj\Debug\MetodosNumeros.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodosNumeros\obj\Debug\MetodosNumeros.pdb

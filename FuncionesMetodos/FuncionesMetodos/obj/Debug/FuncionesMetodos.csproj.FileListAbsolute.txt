@@ -1,0 +1,6 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\FuncionesMetodos\FuncionesMetodos\bin\Debug\FuncionesMetodos.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\FuncionesMetodos\FuncionesMetodos\bin\Debug\FuncionesMetodos.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\FuncionesMetodos\FuncionesMetodos\bin\Debug\FuncionesMetodos.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\FuncionesMetodos\FuncionesMetodos\obj\Debug\FuncionesMetodos.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\FuncionesMetodos\FuncionesMetodos\obj\Debug\FuncionesMetodos.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\FuncionesMetodos\FuncionesMetodos\obj\Debug\FuncionesMetodos.csprojResolveAssemblyReference.cache

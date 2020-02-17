@@ -1,0 +1,6 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\EndMetodo\bin\Debug\EndMetodo.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\EndMetodo\bin\Debug\EndMetodo.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\EndMetodo\bin\Debug\EndMetodo.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\EndMetodo\obj\Debug\EndMetodo.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\EndMetodo\obj\Debug\EndMetodo.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\EndMetodo\obj\Debug\EndMetodo.csprojResolveAssemblyReference.cache

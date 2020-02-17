@@ -1,0 +1,6 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\AplicacionClaseMatch\bin\Debug\AplicacionClaseMatch.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\AplicacionClaseMatch\obj\Debug\AplicacionClaseMatch.csprojResolveAssemblyReference.cache
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\AplicacionClaseMatch\bin\Debug\AplicacionClaseMatch.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\AplicacionClaseMatch\bin\Debug\AplicacionClaseMatch.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\AplicacionClaseMatch\obj\Debug\AplicacionClaseMatch.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\AplicacionClaseMatch\obj\Debug\AplicacionClaseMatch.pdb

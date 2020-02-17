@@ -1,0 +1,5 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\Ejercicio2\obj\Debug\Ejercicio2.pdb
