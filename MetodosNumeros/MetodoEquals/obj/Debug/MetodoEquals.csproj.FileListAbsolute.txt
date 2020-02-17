@@ -1,0 +1,6 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoEquals\bin\Debug\MetodoEquals.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoEquals\bin\Debug\MetodoEquals.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoEquals\bin\Debug\MetodoEquals.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoEquals\obj\Debug\MetodoEquals.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoEquals\obj\Debug\MetodoEquals.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoEquals\obj\Debug\MetodoEquals.csprojResolveAssemblyReference.cache

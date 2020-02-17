@@ -1,0 +1,5 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoTrim\bin\Debug\MetodoTrim.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoTrim\bin\Debug\MetodoTrim.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoTrim\bin\Debug\MetodoTrim.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoTrim\obj\Debug\MetodoTrim.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoTrim\obj\Debug\MetodoTrim.pdb

@@ -1,0 +1,5 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoToString\bin\Debug\MetodoToString.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoToString\bin\Debug\MetodoToString.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoToString\bin\Debug\MetodoToString.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoToString\obj\Debug\MetodoToString.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoToString\obj\Debug\MetodoToString.pdb

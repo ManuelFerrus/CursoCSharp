@@ -1,0 +1,5 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoToCharArray\bin\Debug\MetodoToCharArray.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoToCharArray\bin\Debug\MetodoToCharArray.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoToCharArray\bin\Debug\MetodoToCharArray.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoToCharArray\obj\Debug\MetodoToCharArray.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoToCharArray\obj\Debug\MetodoToCharArray.pdb

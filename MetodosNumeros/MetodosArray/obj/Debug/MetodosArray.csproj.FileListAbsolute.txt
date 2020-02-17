@@ -1,0 +1,6 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodosArray\bin\Debug\MetodosArray.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodosArray\bin\Debug\MetodosArray.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodosArray\bin\Debug\MetodosArray.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodosArray\obj\Debug\MetodosArray.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodosArray\obj\Debug\MetodosArray.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodosArray\obj\Debug\MetodosArray.csprojResolveAssemblyReference.cache

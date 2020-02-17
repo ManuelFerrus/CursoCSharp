@@ -1,0 +1,6 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoRemove\bin\Debug\MetodoRemove.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoRemove\bin\Debug\MetodoRemove.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoRemove\bin\Debug\MetodoRemove.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoRemove\obj\Debug\MetodoRemove.csprojResolveAssemblyReference.cache
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoRemove\obj\Debug\MetodoRemove.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoRemove\obj\Debug\MetodoRemove.pdb

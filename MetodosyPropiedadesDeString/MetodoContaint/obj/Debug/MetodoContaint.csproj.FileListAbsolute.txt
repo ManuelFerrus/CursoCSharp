@@ -1,0 +1,5 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoContaint\bin\Debug\MetodoContaint.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoContaint\bin\Debug\MetodoContaint.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoContaint\bin\Debug\MetodoContaint.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoContaint\obj\Debug\MetodoContaint.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoContaint\obj\Debug\MetodoContaint.pdb

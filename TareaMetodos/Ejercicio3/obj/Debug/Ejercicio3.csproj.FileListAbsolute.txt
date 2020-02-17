@@ -1,0 +1,5 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\Ejercicio3\obj\Debug\Ejercicio3.pdb

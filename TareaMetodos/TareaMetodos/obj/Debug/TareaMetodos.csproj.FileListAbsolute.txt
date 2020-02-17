@@ -1,0 +1,5 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\TareaMetodos\bin\Debug\TareaMetodos.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\TareaMetodos\bin\Debug\TareaMetodos.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\TareaMetodos\bin\Debug\TareaMetodos.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\TareaMetodos\obj\Debug\TareaMetodos.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\TareaMetodos\TareaMetodos\obj\Debug\TareaMetodos.pdb

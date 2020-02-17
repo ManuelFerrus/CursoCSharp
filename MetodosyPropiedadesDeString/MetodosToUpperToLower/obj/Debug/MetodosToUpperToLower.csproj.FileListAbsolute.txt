@@ -1,0 +1,5 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodosToUpperToLower\bin\Debug\MetodosToUpperToLower.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodosToUpperToLower\bin\Debug\MetodosToUpperToLower.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodosToUpperToLower\bin\Debug\MetodosToUpperToLower.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodosToUpperToLower\obj\Debug\MetodosToUpperToLower.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodosToUpperToLower\obj\Debug\MetodosToUpperToLower.pdb
