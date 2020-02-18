@@ -1,0 +1,12 @@
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Seccion2\bin\Debug\Seccion2.exe.config
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Seccion2\bin\Debug\Seccion2.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Seccion2\bin\Debug\Seccion2.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Seccion2\obj\Debug\Seccion2.exe
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Seccion2\obj\Debug\Seccion2.pdb
+C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\ConsoleApplication1\Seccion2\obj\Debug\Seccion2.csprojResolveAssemblyReference.cache
+C:\Proyectos Git\CursoCSharp\ConsoleApplication1\Seccion2\bin\Debug\Seccion2.exe.config
+C:\Proyectos Git\CursoCSharp\ConsoleApplication1\Seccion2\obj\Debug\Seccion2.exe
+C:\Proyectos Git\CursoCSharp\ConsoleApplication1\Seccion2\obj\Debug\Seccion2.pdb
+C:\Proyectos Git\CursoCSharp\ConsoleApplication1\Seccion2\bin\Debug\Seccion2.exe
+C:\Proyectos Git\CursoCSharp\ConsoleApplication1\Seccion2\bin\Debug\Seccion2.pdb
+C:\Proyectos Git\CursoCSharp\ConsoleApplication1\Seccion2\obj\Debug\Seccion2.csprojResolveAssemblyReference.cache
