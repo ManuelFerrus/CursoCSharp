@@ -248,17 +248,32 @@ namespace Seccion2
             //Console.WriteLine ( "El usuario es " + oUsuario.nombreUsuario + " su contraseña " + oUsuario.contra );
 
             #endregion
-            #region clase3
+            #region clases3
             //Persona oPersona = new Persona ( );
-            Persona oPersona=new Persona ( "Felipe", "Gonzalez", "Suarez", 23, 2000 );
-            Persona oPersona2=new Persona ( );
-            oPersona2.nombre = "Jorge";
-            oPersona2.apPaterno = "Fernandez";
-            oPersona2.apMaterno = "Cocolizo";
-            oPersona2.edad = 30;
-            oPersona2.sueldo = 1000;
-            Console.WriteLine ( "Edad " + oPersona.edad );
-            Console.WriteLine ( "Edad segundo objeto " + oPersona2.edad );
+            //Persona oPersona=new Persona ( "Felipe", "Gonzalez", "Suarez", 23, 2000 );
+            //Persona oPersona2=new Persona ( );
+            //oPersona2.nombre = "Jorge";
+            //oPersona2.apPaterno = "Fernandez";
+            //oPersona2.apMaterno = "Cocolizo";
+            //oPersona2.edad = 30;
+            //oPersona2.sueldo = 1000;
+            //Console.WriteLine ( "Edad " + oPersona.edad );
+            //Console.WriteLine ( "Edad segundo objeto " + oPersona2.edad );
+            #endregion
+            #region clases4
+            //Persona oPersona = new Persona ( );
+            //oPersona.setSueldo ( 5000 );
+            //Console.WriteLine ( oPersona.getSueldo ( ) );
+            #endregion
+            #region clases5
+            Persona oPersona = new Persona ( );
+            oPersona.setNombre ( "Rodrigo" );
+            oPersona.setApPaterno ( "Gonazalez" );
+            oPersona.setApMaterno ( "Padilla" );
+            oPersona.setEdad ( 10 );
+            oPersona.setSueldo ( -1700 );
+            Console.WriteLine ( oPersona.getEdad ( ) );
+            Console.WriteLine ( oPersona.getSueldo ( ) );
             #endregion
             Console.ReadLine ( );
         }
