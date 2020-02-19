@@ -24,14 +24,72 @@ namespace Seccion2
             this.sueldo = sueldo;
         }
         //Lo que queremos almacenar PROPIEDADES
-        public string nombre { get; set; }
+        //Para el encapzulamiento las propiedades deben de ser private
+        private string nombre { get; set; }
                                     //set, permite asignarle valores a una propiedad
-        public string apPaterno { get; set; }
-        public string apMaterno { get; set; }
+        private string apPaterno { get; set; }
+        private string apMaterno { get; set; }
                                 //get, permite leer el valore de una propiedad
-        public int edad { get; set; }
-        public double sueldo { get; set; }
+        private int edad { get; set; }
+        private double sueldo { get; set; }
+        //--
 
+        //Modificadores
+        #region modificadores Encapzulamiento
+        public string getNombre ( )
+        {
+            return nombre;
+        }
+        //los Set son void
+        public void setNombre ( string nombre )
+        {
+            this.nombre = nombre;
+        }
+
+        public string getApPaterno ( )
+        {
+            return apPaterno;
+        }
+
+        public void setApPaterno ( string apPaterno )
+        {
+            this.apPaterno = apPaterno;
+        }
+
+        public string getApMaterno ( )
+        {
+            return apMaterno;
+        }
+        
+        public void setApMaterno ( string apMaterno )
+        {
+            this.apMaterno = apMaterno;
+        }
+
+        //Modificador para la propiedad edad
+        public int getEdad ( )
+        {
+            return edad;
+        }
+        
+        public void setEdad ( int edad )
+        {
+            if ( edad > 0 ) this.edad = edad;
+            else this.edad = 0; //Se le asigna un valor por defecto a la propiedad
+        }
+        //Modificador para la propiedad sueldo
+        public double getSueldo ( )
+        {
+            return sueldo;
+        }
+
+        public void setSueldo ( double sueldo )
+        {
+            if ( sueldo > 0 ) this.sueldo = sueldo;
+            else this.sueldo = 0; //Se le asigna un valor por defecto a la propiedad
+        }
+        #endregion
+        //--
         public string nombreCompleto (  )
         {
             return nombre + " " + apPaterno + " " + apMaterno;
