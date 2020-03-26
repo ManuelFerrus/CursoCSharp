@@ -10,3 +10,9 @@ C:\Proyectos Git\CursoCSharp\ConsoleApplication1\Seccion2\obj\Debug\Seccion2.pdb
 C:\Proyectos Git\CursoCSharp\ConsoleApplication1\Seccion2\bin\Debug\Seccion2.exe
 C:\Proyectos Git\CursoCSharp\ConsoleApplication1\Seccion2\bin\Debug\Seccion2.pdb
 C:\Proyectos Git\CursoCSharp\ConsoleApplication1\Seccion2\obj\Debug\Seccion2.csprojResolveAssemblyReference.cache
+C:\Users\Mika\OneDrive\Documentos\Capacitaciones\CursoCSharp\ConsoleApplication1\Seccion2\bin\Debug\Seccion2.exe.config
+C:\Users\Mika\OneDrive\Documentos\Capacitaciones\CursoCSharp\ConsoleApplication1\Seccion2\obj\Debug\Seccion2.exe
+C:\Users\Mika\OneDrive\Documentos\Capacitaciones\CursoCSharp\ConsoleApplication1\Seccion2\obj\Debug\Seccion2.pdb
+C:\Users\Mika\OneDrive\Documentos\Capacitaciones\CursoCSharp\ConsoleApplication1\Seccion2\bin\Debug\Seccion2.exe
+C:\Users\Mika\OneDrive\Documentos\Capacitaciones\CursoCSharp\ConsoleApplication1\Seccion2\bin\Debug\Seccion2.pdb
+C:\Users\Mika\OneDrive\Documentos\Capacitaciones\CursoCSharp\ConsoleApplication1\Seccion2\obj\Debug\Seccion2.csprojResolveAssemblyReference.cache
