@@ -4,3 +4,6 @@ C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\Metodo
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoTimeStamp\obj\Debug\MetodoTimeStamp.exe
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoTimeStamp\obj\Debug\MetodoTimeStamp.pdb
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosNumeros\MetodoTimeStamp\obj\Debug\MetodoTimeStamp.csprojResolveAssemblyReference.cache
+C:\Users\Mika\OneDrive\Documentos\Capacitaciones\CursoCSharp\MetodosNumeros\MetodoTimeStamp\bin\Debug\MetodoTimeStamp.exe.config
+C:\Users\Mika\OneDrive\Documentos\Capacitaciones\CursoCSharp\MetodosNumeros\MetodoTimeStamp\obj\Debug\MetodoTimeStamp.exe
+C:\Users\Mika\OneDrive\Documentos\Capacitaciones\CursoCSharp\MetodosNumeros\MetodoTimeStamp\obj\Debug\MetodoTimeStamp.pdb
