@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionDiccionario", "AplicacionDiccionario\AplicacionDiccionario.csproj", "{B4D5D961-E265-4005-9A03-2B44261AE7AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D5D961-E265-4005-9A03-2B44261AE7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D5D961-E265-4005-9A03-2B44261AE7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D5D961-E265-4005-9A03-2B44261AE7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D5D961-E265-4005-9A03-2B44261AE7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
