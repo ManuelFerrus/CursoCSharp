@@ -24,18 +24,48 @@ namespace ListasPropiedadesYMetodos
 
 
             List<Cliente> listaCLientes2 = new List<Cliente> { 
-                new Cliente ("Adrian", "Ugarria","Perez", 20, "peo"),
+                new Cliente ("Adrian", "Ugarriza","Perez", 20, "peo"),
                 new Cliente("Rodrigo", "Cuba", "Affonso", 25, "oia")
             };
             //si se intenta con el .add no te permitira, porque estas agregando una lista
-            listaClientes.AddRange( listaCLientes2 );
-            listaClientes.Clear();//se limpia la lista
+            //SE agrega al final de la lista
+            //listaClientes.AddRange( listaCLientes2 );
+            //Se inserta en la posicion deseada
+            listaClientes.InsertRange( 2, listaCLientes2 );
+
+            //eliminamos a todas las personas que su nombre termina con o
+            //listaClientes.RemoveAll( p => p.nombre.EndsWith( "o" ) );
+            //elimina solo el primer registro que encuentre 
+            //Cliente oClienteResultado = listaClientes.Find( p => p.nombre.EndsWith( "o" ) );
+            //listaClientes.Remove( oClienteResultado );
+
+            listaClientes.RemoveAt( 0 );//elimina de aucerdo a una posicion
+            //se busca el valor y se retorna el primero encontrado
+                                                          // Vriable de rangoo, para recorrer la lista
+            //Cliente oClienteResultado = listaClientes.Find( p => p.nombre.Equals( "Adrian" ) );
+            //if ( oClienteResultado != null ) //si no lo encuentra retorna nulo
+            //    Console.WriteLine( oClienteResultado.apPaterno ); //Solo devulebe la primera coincidencia
+            //else
+            //    Console.WriteLine( "No se encontro el objeto" );
+            
+            //findall, retorna una lista
+            //findall, retorna todas las iteraciones
+            //List<Cliente> lista = listaClientes.FindAll(p=>p.nombre.StartsWith("J"));
+            //foreach ( Cliente oCliente in lista )
+            //{
+            //    Console.WriteLine( oCliente.nombre + " " + oCliente.apPaterno + " " + oCliente.apMaterno );
+            //}
+            //listaClientes.Clear();//se limpia la lista
+
+            //listaClientes.Add( new Cliente( "Pepe", "Gonzales", "Prada", 45, "fgr" ) ); //agrega al final de la lista
+            //listaClientes.Insert(1, new Cliente( "Pepe", "Gonzales", "Prada", 45, "fgr" ) ); //agrega en la posicion indicada
+
             foreach ( Cliente oCliente in listaClientes )
             {
                 Console.WriteLine( oCliente.nombre );
             }
             
-            Console.WriteLine("numero de elementos " + listaClientes.Count );
+            //Console.WriteLine("numero de elementos " + listaClientes.Count );
             Console.ReadLine();
         }
     }
