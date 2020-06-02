@@ -3,3 +3,9 @@ C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDe
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoTrim\bin\Debug\MetodoTrim.pdb
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoTrim\obj\Debug\MetodoTrim.exe
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoTrim\obj\Debug\MetodoTrim.pdb
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoTrim\bin\Debug\MetodoTrim.exe.config
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoTrim\bin\Debug\MetodoTrim.exe
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoTrim\bin\Debug\MetodoTrim.pdb
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoTrim\obj\Debug\MetodoTrim.csprojResolveAssemblyReference.cache
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoTrim\obj\Debug\MetodoTrim.exe
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoTrim\obj\Debug\MetodoTrim.pdb

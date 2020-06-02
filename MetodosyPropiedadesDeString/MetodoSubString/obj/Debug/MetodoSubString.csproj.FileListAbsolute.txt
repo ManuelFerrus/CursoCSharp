@@ -3,3 +3,9 @@ C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDe
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoSubString\bin\Debug\MetodoSubString.pdb
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoSubString\obj\Debug\MetodoSubString.exe
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoSubString\obj\Debug\MetodoSubString.pdb
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoSubString\bin\Debug\MetodoSubString.exe.config
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoSubString\bin\Debug\MetodoSubString.exe
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoSubString\bin\Debug\MetodoSubString.pdb
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoSubString\obj\Debug\MetodoSubString.csprojResolveAssemblyReference.cache
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoSubString\obj\Debug\MetodoSubString.exe
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoSubString\obj\Debug\MetodoSubString.pdb
