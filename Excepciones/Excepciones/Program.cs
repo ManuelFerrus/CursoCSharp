@@ -22,22 +22,43 @@ namespace Excepciones
             ////int resultado1 = numero1 / numero2;
             //Console.WriteLine( "Hola" );
 
-            string numero ="123A";
+            //string numero ="123A";
+            //try
+            //{
+            //    int numeroConvertido=int.Parse( numero );
+            //    Console.WriteLine( "Numero Convertido " + numeroConvertido );
+            //}
+            //catch ( FormatException )
+            //{
+            //    Console.WriteLine( "Ocurrio un error, no se pudo convertir a entero" );
+            //}
+            //Console.WriteLine( "Hola" );
+            //Console.WriteLine( "Hola" );
+            //Console.WriteLine( "Hola" );
+            //Console.WriteLine( "Hola" );
+            //Console.WriteLine( "Hola" );
+
+            int []numeros=new int[ 4 ];
             try
             {
-                int numeroConvertido=int.Parse( numero );
-                Console.WriteLine( "Numero Convertido " + numeroConvertido );
+                //numeros[ 0 ] = 10;
+                //numeros[ 1 ] = 15;
+                //numeros[ 2 ] = 18;
+                //numeros[ 3 ] = 16;
+                //numeros[ 4 ] = 5;
+                string numerosCadena = "s123";
+                int numeros1=int.Parse( numerosCadena );
             }
-            catch ( FormatException )
+            //catch ( IndexOutOfRangeException )
+            catch ( Exception ex )
             {
-                Console.WriteLine( "Ocurrio un error, no se pudo convertir a entero" );
+                Console.WriteLine( "Error: " + ex.Message );
+            }
+            finally //haya error o no, este bloque siempre se ejecuta
+            {
+                Console.WriteLine( "Hola como estas soy un Finally" );
             }
             Console.WriteLine( "Hola" );
-            Console.WriteLine( "Hola" );
-            Console.WriteLine( "Hola" );
-            Console.WriteLine( "Hola" );
-            Console.WriteLine( "Hola" );
-
             Console.ReadLine();
         }
     }
