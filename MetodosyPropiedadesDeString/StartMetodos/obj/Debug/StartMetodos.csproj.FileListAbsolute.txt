@@ -3,3 +3,8 @@ C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDe
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\StartMetodos\bin\Debug\StartMetodos.pdb
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\StartMetodos\obj\Debug\StartMetodos.exe
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\StartMetodos\obj\Debug\StartMetodos.pdb
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\StartMetodos\bin\Debug\StartMetodos.exe.config
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\StartMetodos\bin\Debug\StartMetodos.exe
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\StartMetodos\bin\Debug\StartMetodos.pdb
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\StartMetodos\obj\Debug\StartMetodos.exe
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\StartMetodos\obj\Debug\StartMetodos.pdb

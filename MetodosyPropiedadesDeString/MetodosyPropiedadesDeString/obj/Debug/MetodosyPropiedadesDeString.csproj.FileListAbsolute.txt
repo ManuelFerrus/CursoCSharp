@@ -4,3 +4,9 @@ C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDe
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodosyPropiedadesDeString\obj\Debug\MetodosyPropiedadesDeString.csprojResolveAssemblyReference.cache
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodosyPropiedadesDeString\obj\Debug\MetodosyPropiedadesDeString.exe
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodosyPropiedadesDeString\obj\Debug\MetodosyPropiedadesDeString.pdb
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodosyPropiedadesDeString\bin\Debug\MetodosyPropiedadesDeString.exe.config
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodosyPropiedadesDeString\bin\Debug\MetodosyPropiedadesDeString.exe
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodosyPropiedadesDeString\bin\Debug\MetodosyPropiedadesDeString.pdb
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodosyPropiedadesDeString\obj\Debug\MetodosyPropiedadesDeString.csprojResolveAssemblyReference.cache
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodosyPropiedadesDeString\obj\Debug\MetodosyPropiedadesDeString.exe
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodosyPropiedadesDeString\obj\Debug\MetodosyPropiedadesDeString.pdb

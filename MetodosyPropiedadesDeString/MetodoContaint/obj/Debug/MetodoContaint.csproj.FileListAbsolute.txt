@@ -3,3 +3,8 @@ C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDe
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoContaint\bin\Debug\MetodoContaint.pdb
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoContaint\obj\Debug\MetodoContaint.exe
 C:\Users\mferrusquia\Documents\Visual Studio 2012\Projects\MetodosyPropiedadesDeString\MetodoContaint\obj\Debug\MetodoContaint.pdb
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoContaint\bin\Debug\MetodoContaint.exe.config
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoContaint\bin\Debug\MetodoContaint.exe
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoContaint\bin\Debug\MetodoContaint.pdb
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoContaint\obj\Debug\MetodoContaint.exe
+C:\Users\mferrusquia\Documents\Estudio\CursoCSharp\MetodosyPropiedadesDeString\MetodoContaint\obj\Debug\MetodoContaint.pdb
