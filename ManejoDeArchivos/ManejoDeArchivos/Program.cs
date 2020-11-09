@@ -68,10 +68,32 @@ namespace ManejoDeArchivos
             //Console.WriteLine( "Directorio Actual " + directorioActual );
             //Console.WriteLine( "Unidad " + unidad );
 
-            string rutaInicio = @"C:\ClaseArchivos\Alumnos";
-            string rutaFinal = @"C:\RutaMover2";
-            Directory.Move( rutaInicio, rutaFinal ); //Se mueven los archivos que estan dentro de la carpeta a donde se le indique
+            //string rutaInicio = @"C:\ClaseArchivos\Alumnos";
+            //string rutaFinal = @"C:\RutaMover2";
+            //Directory.Move( rutaInicio, rutaFinal ); //Se mueven los archivos que estan dentro de la carpeta a donde se le indique
 
+            //copiar archivo
+            //string rutaOrigen =@"C:\ClaseArchivos\examen.txt";
+            //string rutaDestino=@"C:\Mover\examen.txt";
+            //File.Copy( rutaOrigen, rutaDestino );
+
+            //string rutaOrigen = @"C:\ClaseArchivos\move.txt";
+            //string rutaDestino = @"C:\Mover\move.txt";
+            //using ( StreamWriter sw = File.CreateText( ruta ) ) //si el archivo ya existe, lo borra, lo crea y añade el texto, si lo que deseas es añadir texto, te recomiendo el AppendAllText
+            //{
+            //    sw.Write( "Hola" );
+            //    sw.Write( "Amigos" );
+            //    sw.Write( "Compañeros" );
+            //}
+
+            //File.Delete( ruta );//eliminamos el archivo
+            //File.Encrypt( ruta ); //solo el usuario que lo creo, lo puede abrir y editar
+            //File.Move( rutaOrigen, rutaDestino ); //Lo quita de un lado y lo manda a otro lugar
+
+            string ruta =@"C:\ClaseArchivos\Imagenes\Imagen.jpg";
+            string rutaDestino =@"C:\Imagen\Imagen.jpg";
+            byte[] archivo= File.ReadAllBytes( ruta ); // convertimos la imagen en bytes
+            File.WriteAllBytes( rutaDestino, archivo ); // escribimos los bytes, para restaurar la imagen
             Console.ReadLine();
         }
     }
