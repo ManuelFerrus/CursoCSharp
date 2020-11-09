@@ -90,10 +90,34 @@ namespace ManejoDeArchivos
             //File.Encrypt( ruta ); //solo el usuario que lo creo, lo puede abrir y editar
             //File.Move( rutaOrigen, rutaDestino ); //Lo quita de un lado y lo manda a otro lugar
 
-            string ruta =@"C:\ClaseArchivos\Imagenes\Imagen.jpg";
-            string rutaDestino =@"C:\Imagen\Imagen.jpg";
-            byte[] archivo= File.ReadAllBytes( ruta ); // convertimos la imagen en bytes
-            File.WriteAllBytes( rutaDestino, archivo ); // escribimos los bytes, para restaurar la imagen
+            //string ruta =@"C:\ClaseArchivos\Imagenes\Imagen.jpg";
+            //string rutaDestino =@"C:\Imagen\Imagen.jpg";
+            //byte[] archivo= File.ReadAllBytes( ruta ); // convertimos la imagen en bytes
+            //File.WriteAllBytes( rutaDestino, archivo ); // escribimos los bytes, para restaurar la imagen
+            
+            //string rutaOrigen = @"C:\ClaseArchivos\examen.txt";
+            //string rutaDestino = @"C:\ClaseArchivos\Contenido.txt";
+            ////string contenido = "El día de hoy estoy aprendiendo un montón"; //escribimos en el txt
+            //string contenidoArchivo = File.ReadAllText( rutaOrigen );
+            ////File.WriteAllText( rutaOrigen, contenido );
+            //File.WriteAllText( rutaDestino, contenidoArchivo );
+
+            //string ruta =  @"C:\ClaseArchivos\Contenido.txt";
+            //string[]lineas=File.ReadAllLines( ruta ); //leemos todas las lineas del texto
+            //foreach ( string linea in lineas )
+            //{
+            //    Console.WriteLine( linea ); //imprimimos linea x linea
+            //}
+
+            string ruta =  @"C:\ClaseArchivos\Contenido.txt";
+            FileInfo f = new FileInfo( ruta ); //informacion del archivo
+            Console.WriteLine( f.Exists ); //nos devuelve si existe o no el archivo
+            Console.WriteLine( f.Length ); //nos regresa el tamaño del archivo (peso)
+            Console.WriteLine( f.Directory ); //nos dice el directorio donde esta el archivo
+            Console.WriteLine( f.Name ); //Nombre del archivo con todo y extensión
+
+            DirectoryInfo dInfo = f.Directory; //Informacion del directorio
+            Console.WriteLine( dInfo.Root ); //Nos dice en la unidad en la que se encuentra el archivo
             Console.ReadLine();
         }
     }
