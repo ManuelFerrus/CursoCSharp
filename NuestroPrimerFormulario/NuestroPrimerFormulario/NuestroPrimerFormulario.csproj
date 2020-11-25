@@ -50,10 +50,46 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmCapturarDatosCombobox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapturarDatosCombobox.Designer.cs">
+      <DependentUpon>frmCapturarDatosCombobox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapturarDatosDateTimePicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapturarDatosDateTimePicker.Designer.cs">
+      <DependentUpon>frmCapturarDatosDateTimePicker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapturarDatosNumericUpDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapturarDatosNumericUpDown.Designer.cs">
+      <DependentUpon>frmCapturarDatosNumericUpDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCapturarDatosTextbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCapturarDatosTextbox.Designer.cs">
+      <DependentUpon>frmCapturarDatosTextbox.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapturarDatosCombobox.resx">
+      <DependentUpon>frmCapturarDatosCombobox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapturarDatosDateTimePicker.resx">
+      <DependentUpon>frmCapturarDatosDateTimePicker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapturarDatosNumericUpDown.resx">
+      <DependentUpon>frmCapturarDatosNumericUpDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCapturarDatosTextbox.resx">
+      <DependentUpon>frmCapturarDatosTextbox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

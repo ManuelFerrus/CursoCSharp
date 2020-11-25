@@ -16,7 +16,7 @@ namespace NuestroPrimerFormulario
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault( false );
-            Application.Run( new frmPrimerForumulario() );
+            Application.Run( new frmCapturarDatosDateTimePicker() );//cambiamos formulario de inicio
         }
     }
 }
