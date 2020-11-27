@@ -74,6 +74,12 @@
     <Compile Include="frmCapturarDatosTextbox.Designer.cs">
       <DependentUpon>frmCapturarDatosTextbox.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmSuma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSuma.Designer.cs">
+      <DependentUpon>frmSuma.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -90,6 +96,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmCapturarDatosTextbox.resx">
       <DependentUpon>frmCapturarDatosTextbox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSuma.resx">
+      <DependentUpon>frmSuma.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
