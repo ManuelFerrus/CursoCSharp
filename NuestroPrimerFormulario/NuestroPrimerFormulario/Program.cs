@@ -16,7 +16,7 @@ namespace NuestroPrimerFormulario
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault( false );
-            Application.Run( new frmSuma() );//cambiamos formulario de inicio
+            Application.Run( new frmEdad() );//cambiamos formulario de inicio
         }
     }
 }
