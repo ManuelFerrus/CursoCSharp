@@ -1,15 +1,16 @@
 ﻿using System.Reflection;
+using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("CursoLinQ2019")]
+[assembly: AssemblyTitle("Ejercicio3")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Coppel S.A. de C.V.")]
-[assembly: AssemblyProduct("CursoLinQ2019")]
-[assembly: AssemblyCopyright("Copyright © Coppel S.A. de C.V. 2020")]
+[assembly: AssemblyProduct("Ejercicio3")]
+[assembly: AssemblyCopyright("Copyright © Coppel S.A. de C.V. 2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -19,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("aaa945e8-b867-428b-b726-4ab2a41d4386")]
+[assembly: Guid("c9fae7df-1475-464f-87e0-b772256cdc3c")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
