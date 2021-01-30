@@ -11,9 +11,9 @@ using MiPrimeraAplicacionDeEscritorio.Models; //Instanciamos la carpeta
 
 namespace MiPrimeraAplicacionDeEscritorio
 {
-    public partial class Form1 : Form
+    public partial class frmMarca : Form
     {
-        public Form1()
+        public frmMarca()
         {
             InitializeComponent();
         }

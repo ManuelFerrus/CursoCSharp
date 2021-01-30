@@ -1,6 +1,6 @@
 ﻿namespace MiPrimeraAplicacionDeEscritorio
 {
-    partial class Form1
+    partial class frmMarca
     {
         /// <summary>
         /// Required designer variable.
@@ -41,14 +41,15 @@
             this.dgvMarca.Size = new System.Drawing.Size(875, 253);
             this.dgvMarca.TabIndex = 0;
             // 
-            // Form1
+            // frmMarca
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(899, 336);
             this.Controls.Add(this.dgvMarca);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "frmMarca";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Mantenimiento Marca";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvMarca)).EndInit();
             this.ResumeLayout(false);
